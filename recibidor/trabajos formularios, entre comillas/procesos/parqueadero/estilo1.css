@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    box-sizing: border-box;
+}
+
+    /*HEADER*/
+header{
+    height: 100px;
+    background-color: #6D16D6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 50px;
+    height: auto;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    gap: 500px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #8a4ed4;
+}
+form{
+    border: none;
+    border-radius: 20px;
+    background-color: #8a54cc;
+    text-align: center;
+    padding: 80px;
+}.contenedor{
+    border:#6D16D6;
+    border-radius: 20px;
+    margin: 20px;
+}.input{
+    background-color: #a177d4;
+    border: none;
+    border-radius: 20px;
+    transition: all 0.8s ease;
+    padding: 5px;
+}.input:hover{
+    transform: scale(1.2);
+    padding: 10px;
+    margin: 10px;
+}button{
+    border: none;
+    border-radius: 20px;
+    background-color: #6D16D6;
+    transition: all 0.8s ease;
+    padding: 20px;
+}button:hover{
+    transform: translateY(-10px) scale(1.2);
+    background-color: #bc9fe0;
+    border-radius: 50px;
+}

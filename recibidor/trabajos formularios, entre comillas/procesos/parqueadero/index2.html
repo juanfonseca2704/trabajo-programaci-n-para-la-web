@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sistema de cobro parqueadero</title>
+    <!--Estilo-->
+        <link rel="stylesheet" href="estilo1.css">
+    <!--Tipografia-->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
+    
+</head>
+<body>
+   <header>
+    <div class="header">
+        <img class="img" src="logo.png" alt="logo">
+        <h1>SISTEMA DE COBRO</h1>
+    </div>
+</header>
+
+<br>
+
+<div class="parqueadero">
+
+    <form onsubmit="return false;">
+
+        <!-- Tipo -->
+        <div class="contenedor">
+            <label for="tipo">Tipo de vehículo</label><br>
+            <select name="tipo" id="tipo" class="input">
+                <option value="carro">Carro</option>
+                <option value="moto">Moto</option>
+            </select>
+        </div>
+
+        <!-- Placa -->
+        <div class="contenedor">
+            <label for="placa">Placa</label><br>
+            <input type="text" name="placa" id="placa" class="input">
+        </div>
+
+        <!-- Fechas -->
+        <div class="contenedor">
+            <label for="inicio">Hora de ingreso</label><br>
+            <input type="datetime-local" id="inicio" name="inicio" class="input">
+            <br><br>
+
+            <label for="fin">Hora de salida</label><br>
+            <input type="datetime-local" id="fin" name="fin" class="input">
+        </div>
+
+        <!-- BOTÓN NUEVO -->
+        <br>
+        <button type="button" onclick="cobro()">
+            Calcular cobro
+        </button>
+        <div id="cobro"></div>
+        <br><br>
+
+        <!-- TOTAL -->
+        <div id="total"></div>
+
+        <br>
+
+        <!-- PAGO -->
+        <label for="pagar">Pago</label>
+        <input type="number" name="pagar" id="pagar">
+
+        <br><br>
+
+        <!-- BOTÓN VUELTAS -->
+        <button type="button" onclick="vueltas()">
+                Calcular vueltas
+        </button>
+            <br>
+
+        <!-- VUELTAS -->
+        <div id="vueltas"></div>
+
+    </div>
+
+    <!-- RESULTADOS GENERALES -->
+    <div id="resultados">resultados</div>
+    </form>
+
+
+
+<script src="codigo.js"></script>
+
+<footer>
+    <h3>Como buena persona recursiva si se pierde utiliza el siguiente boton</h3>
+    <p>Hecho por Juan Felipe Roncancio Fonseca</p>
+    <a href="/html/recibidor.html">REUBICARSE</a>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: #9196B1;
+    color: #EDF6EE;
+        /*Tipografia*/
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    text-align: center;
+    color: #FF0000;
+}
+
+.container {
+        /*posicionamiento*/
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding: 30px;
+        /*Estilo*/
+    border-radius: 20px;
+    background-color: #233042;
+
+}
+
+.search {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  
+}
+
+form {
+    display: flex;
+}
+
+input {
+    padding: 15px 10px;
+    outline: none;
+    width: 400px;
+        /*estilo*/
+    border-radius: 20px 0px 0px 20px;
+
+}
+
+.li-container {
+    background-color: white;
+    width: 100%;
+    color: darkslategray;
+    margin-top: 20px;
+}
+
+ul {
+    padding: 0;
+    background-color: #233042;
+}
+
+li {
+    list-style: none;
+    background-color: #9196B1;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: flex;
+
+}
+
+li p {
+    margin: 0;
+    padding: 15px;
+    width: 100%;
+}
+
+.btn-delete {
+    margin-left: auto;
+    border: none;
+    background-color: #e31746;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    outline: none;
+    border-radius: 0px 20px 20px 0px;
+    width: 10%;
+    font-size: 1.2em;
+    transition: all 0.5s ease;
+}
+
+.btn-delete:hover {
+    cursor: pointer;
+    background-color: #8C0012;
+    transform: scale(1.2);
+    border-radius: 20px;
+}
+
+.btn-add {
+  padding: 5px 15px;
+  border-radius: 0px 20px 20px 0px;
+  color: white;
+  font-family: fantasy;
+  background-color: #8C0012;
+  font-size: 1.4rem;
+  outline: none;
+  transition: all 0.5s ease;
+}
+
+.btn-add:hover {
+  cursor: pointer;
+  background-color: #FF0000;
+  font-size: 1.8rem;
+  transform: scale(1.4);
+  border-radius: 50px;
+}
+
+.empty {
+  color: darkslategrey;
+}
+header{
+color: #9186ff;
+}
