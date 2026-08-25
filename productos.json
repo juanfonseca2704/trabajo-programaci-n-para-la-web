@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "nombre": "Decoración #1 - Decoraciones del Hogar",
+    "categoria": "Decoraciones del Hogar",
+    "descripcion": "Pieza decorativa para el hogar, ideal para darle un toque especial a cualquier espacio.",
+    "image": "https://i.pinimg.com/1200x/42/83/24/42832485320a9dfdfd0d4a1804e82c94.jpg",
+    "precio": 100000,
+    "tipo": "Decoración"
+  },
+  {
+    "id": 2,
+    "nombre": "Decoración #2 - Decoraciones del Hogar",
+    "categoria": "Decoraciones del Hogar",
+    "descripcion": "Pieza decorativa para el hogar, ideal para darle un toque especial a cualquier espacio.",
+    "image": "https://i.pinimg.com/736x/0e/30/62/0e30624cbf02fe6e417dd5c70615d829.jpg",
+    "precio": 80000,
+    "tipo": "Decoración"
+  },
+  {
+    "id": 3,
+    "nombre": "Decoración #3 - Decoraciones del Hogar",
+    "categoria": "Decoraciones del Hogar",
+    "descripcion": "Pieza decorativa para el hogar, ideal para darle un toque especial a cualquier espacio.",
+    "image": "https://i.pinimg.com/1200x/c1/b7/1f/c1b71f95b842a5427c0b10b6b1bff7d3.jpg",
+    "precio": 100000,
+    "tipo": "Decoración"
+  },
+  {
+    "id": 4,
+    "nombre": "Decoración #4 - Decoraciones del Hogar",
+    "categoria": "Decoraciones del Hogar",
+    "descripcion": "Pieza decorativa para el hogar, ideal para darle un toque especial a cualquier espacio.",
+    "image": "https://i.pinimg.com/736x/09/c4/77/09c477e543d23f9d5f519ac8726342d3.jpg",
+    "precio": 100000,
+    "tipo": "Decoración"
+  },
+  {
+    "id": 5,
+    "nombre": "Decoración #5 - Decoraciones del Hogar",
+    "categoria": "Decoraciones del Hogar",
+    "descripcion": "Pieza decorativa para el hogar, ideal para darle un toque especial a cualquier espacio.",
+    "image": "https://i.pinimg.com/1200x/f1/02/ed/f102edf097d38d6b776a69082af82d2d.jpg",
+    "precio": 40000,
+    "tipo": "Decoración"
+  },
+  {
+    "id": 6,
+    "nombre": "Decoración #6 - Decoraciones del Hogar",
+    "categoria": "Decoraciones del Hogar",
+    "descripcion": "Pieza decorativa para el hogar, ideal para darle un toque especial a cualquier espacio.",
+    "image": "https://i.pinimg.com/736x/11/2a/c9/112ac9da18fba32afc045458208a1c41.jpg",
+    "precio": 40000,
+    "tipo": "Decoración"
+  },
+  {
+    "id": 7,
+    "nombre": "Decoración #7 - Decoraciones del Hogar",
+    "categoria": "Decoraciones del Hogar",
+    "descripcion": "Pieza decorativa para el hogar, ideal para darle un toque especial a cualquier espacio.",
+    "image": "https://i.pinimg.com/1200x/6d/a5/e1/6da5e103a74007be32e7bdab69083933.jpg",
+    "precio": 40000,
+    "tipo": "Decoración"
+  },
+  {
+    "id": 8,
+    "nombre": "Decoración #8 - Decoraciones del Hogar",
+    "categoria": "Decoraciones del Hogar",
+    "descripcion": "Pieza decorativa para el hogar, ideal para darle un toque especial a cualquier espacio.",
+    "image": "https://i.pinimg.com/736x/9e/c2/09/9ec209e34b1d538f6e29fea147207593.jpg",
+    "precio": 80000,
+    "tipo": "Decoración"
+  },
+  {
+    "id": 9,
+    "nombre": "Juguete #1 - Juguetes Antiestrés",
+    "categoria": "Juguetes Antiestrés",
+    "descripcion": "Juguete antiestrés, perfecto para relajarte y liberar tensión en cualquier momento del día.",
+    "image": "https://i.pinimg.com/1200x/04/04/4d/04044d2ea4ec5181c7e7bbcde20da834.jpg",
+    "precio": 80000,
+    "tipo": "Juguete"
+  },
+  {
+    "id": 10,
+    "nombre": "Juguete #2 - Juguetes Antiestrés",
+    "categoria": "Juguetes Antiestrés",
+    "descripcion": "Juguete antiestrés, perfecto para relajarte y liberar tensión en cualquier momento del día.",
+    "image": "https://i.pinimg.com/736x/e0/33/cf/e033cf5754f14e2db6e8d0481bed3708.jpg",
+    "precio": 40000,
+    "tipo": "Juguete"
+  },
+  {
+    "id": 11,
+    "nombre": "Juguete #3 - Juguetes Antiestrés",
+    "categoria": "Juguetes Antiestrés",
+    "descripcion": "Juguete antiestrés, perfecto para relajarte y liberar tensión en cualquier momento del día.",
+    "image": "https://i.pinimg.com/1200x/7a/a7/c1/7aa7c10949fa7a4b797d4d064207c776.jpg",
+    "precio": 40000,
+    "tipo": "Juguete"
+  },
+  {
+    "id": 12,
+    "nombre": "Juguete #4 - Juguetes Antiestrés",
+    "categoria": "Juguetes Antiestrés",
+    "descripcion": "Juguete antiestrés, perfecto para relajarte y liberar tensión en cualquier momento del día.",
+    "image": "https://i.pinimg.com/736x/9d/22/ed/9d22ed62e251ec37a99136a82c79cfe0.jpg",
+    "precio": 40000,
+    "tipo": "Juguete"
+  },
+  {
+    "id": 13,
+    "nombre": "Juguete #5 - Juguetes Antiestrés",
+    "categoria": "Juguetes Antiestrés",
+    "descripcion": "Juguete antiestrés, perfecto para relajarte y liberar tensión en cualquier momento del día.",
+    "image": "https://i.pinimg.com/1200x/6d/bb/24/6dbb24800e5329b5a5a92b4671045def.jpg",
+    "precio": 40000,
+    "tipo": "Juguete"
+  },
+  {
+    "id": 14,
+    "nombre": "Estatua #1 - Estatuas Decorativas",
+    "categoria": "Estatuas Decorativas",
+    "descripcion": "Estatua decorativa, una pieza vistosa para embellecer y complementar la decoracion de tu espacio.",
+    "image": "https://i.pinimg.com/1200x/dc/87/32/dc8732b9151d0555b3464accc5efd075.jpg",
+    "precio": 100000,
+    "tipo": "Estatua"
+  },
+  {
+    "id": 15,
+    "nombre": "Estatua #2 - Estatuas Decorativas",
+    "categoria": "Estatuas Decorativas",
+    "descripcion": "Estatua decorativa, una pieza vistosa para embellecer y complementar la decoracion de tu espacio.",
+    "image": "https://i.pinimg.com/1200x/1d/2c/5f/1d2c5f641e04c9bd35f1b706a9b69a83.jpg",
+    "precio": 80000,
+    "tipo": "Estatua"
+  },
+  {
+    "id": 16,
+    "nombre": "Estatua #3 - Estatuas Decorativas",
+    "categoria": "Estatuas Decorativas",
+    "descripcion": "Estatua decorativa, una pieza vistosa para embellecer y complementar la decoracion de tu espacio.",
+    "image": "https://i.pinimg.com/736x/8e/0b/cc/8e0bcc52cd04d44eb1786f583ef323c4.jpg",
+    "precio": 100000,
+    "tipo": "Estatua"
+  },
+  {
+    "id": 17,
+    "nombre": "Estatua #4 - Estatuas Decorativas",
+    "categoria": "Estatuas Decorativas",
+    "descripcion": "Estatua decorativa, una pieza vistosa para embellecer y complementar la decoracion de tu espacio.",
+    "image": "https://i.pinimg.com/736x/b0/6e/84/b06e84f34f085a90614e37c375f9274b.jpg",
+    "precio": 40000,
+    "tipo": "Estatua"
+  },
+  {
+    "id": 18,
+    "nombre": "Estatua #5 - Estatuas Decorativas",
+    "categoria": "Estatuas Decorativas",
+    "descripcion": "Estatua decorativa, una pieza vistosa para embellecer y complementar la decoracion de tu espacio.",
+    "image": "https://i.pinimg.com/736x/2d/7b/21/2d7b21c02c2fac7c76f576a3914b8600.jpg",
+    "precio": 100000,
+    "tipo": "Estatua"
+  },
+  {
+    "id": 19,
+    "nombre": "Estatua #6 - Estatuas Decorativas",
+    "categoria": "Estatuas Decorativas",
+    "descripcion": "Estatua decorativa, una pieza vistosa para embellecer y complementar la decoracion de tu espacio.",
+    "image": "https://i.pinimg.com/736x/56/8c/d3/568cd3060bfc0033b838db9f792a210e.jpg",
+    "precio": 40000,
+    "tipo": "Estatua"
+  },
+  {
+    "id": 20,
+    "nombre": "Llavero #1 - Llaveros",
+    "categoria": "Llaveros",
+    "descripcion": "Llavero decorativo, un accesorio práctico y original para acompañar tus llaves.",
+    "image": "https://i.pinimg.com/1200x/1b/69/69/1b69699a8f3367790cee9db6fec33334.jpg",
+    "precio": 10000,
+    "tipo": "Llavero"
+  },
+  {
+    "id": 21,
+    "nombre": "Llavero #2 - Llaveros",
+    "categoria": "Llaveros",
+    "descripcion": "Llavero decorativo, un accesorio práctico y original para acompañar tus llaves.",
+    "image": "https://i.pinimg.com/1200x/57/e8/97/57e8975bfd613879b75383f61dcb112a.jpg",
+    "precio": 40000,
+    "tipo": "Llavero"
+  },
+  {
+    "id": 22,
+    "nombre": "Llavero #3 - Llaveros",
+    "categoria": "Llaveros",
+    "descripcion": "Llavero decorativo, un accesorio práctico y original para acompañar tus llaves.",
+    "image": "https://i.pinimg.com/1200x/25/61/31/256131a6b11fa47a7f0e43401db64f49.jpg",
+    "precio": 10000,
+    "tipo": "Llavero"
+  },
+  {
+    "id": 23,
+    "nombre": "Llavero #4 - Llaveros",
+    "categoria": "Llaveros",
+    "descripcion": "Llavero decorativo, un accesorio práctico y original para acompañar tus llaves.",
+    "image": "https://i.pinimg.com/736x/8d/c5/a6/8dc5a6aaea7ffef8fcea079f7b099411.jpg",
+    "precio": 10000,
+    "tipo": "Llavero"
+  },
+  {
+    "id": 24,
+    "nombre": "Llavero #5 - Llaveros",
+    "categoria": "Llaveros",
+    "descripcion": "Llavero decorativo, un accesorio práctico y original para acompañar tus llaves.",
+    "image": "https://i.pinimg.com/736x/c2/7b/7c/c27b7c76ea21ceb4607542c4839bad84.jpg",
+    "precio": 10000,
+    "tipo": "Llavero"
+  },
+  {
+    "id": 25,
+    "nombre": "Llavero #6 - Llaveros",
+    "categoria": "Llaveros",
+    "descripcion": "Llavero decorativo, un accesorio práctico y original para acompañar tus llaves.",
+    "image": "https://i.pinimg.com/1200x/2a/02/67/2a0267d30ce96f0e25552fafdb8bc515.jpg",
+    "precio": 10000,
+    "tipo": "Llavero"
+  },
+  {
+    "id": 26,
+    "nombre": "Llavero #7 - Llaveros",
+    "categoria": "Llaveros",
+    "descripcion": "Llavero decorativo, un accesorio práctico y original para acompañar tus llaves.",
+    "image": "https://i.pinimg.com/1200x/60/05/99/6005993c9b436bb6a18c1dc57522b478.jpg",
+    "precio": 10000,
+    "tipo": "Llavero"
+  }
+]
